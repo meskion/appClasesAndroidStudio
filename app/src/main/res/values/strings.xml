@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appClases</string>
+    <string name="estadoAlum">Estado del alumno/a :</string>
+    <string name="hintAcceso">Acceso a datos</string>
+    <string name="hintInterfaces">Desarrollo Interfaces</string>
+    <string name="hintWeb">Programación Web</string>
+    <string name="hintEmpresa">Empresa</string>
+    <string name="hintEvaluar">Evaluar</string>
+    <string name="aprobado">APROBADO</string>
+    <string name="suspenso">SUSPENSO</string>
+</resources>
