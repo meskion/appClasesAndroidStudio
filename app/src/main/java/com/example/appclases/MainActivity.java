@@ -63,10 +63,10 @@ public class MainActivity extends AppCompatActivity {
             result = result + nota / size;
         }
         if (result >= 5){
-            calif.setText(R.string.aprobado);
+            calif.setText(result + " - " + getString(R.string.aprobado));
             calif.setTextColor(Color.GREEN);
         } else{
-            calif.setText(R.string.suspenso);
+            calif.setText(result + " - " + getString(R.string.suspenso));
             calif.setTextColor(Color.RED);
         }
 
